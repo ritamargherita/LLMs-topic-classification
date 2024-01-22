@@ -1,0 +1,14 @@
+results = {
+    "ID": "IDENTITY",
+    "Periods": "TIME",
+    "Volume": "QUANTITY",
+    "Fat Content": "PHYSIOLOGICAL EFFECTS",
+    "Protein Content": "PHYSIOLOGICAL EFFECTS",
+    "Butter": "FOOD AND NUTRITION",
+    "Cheese": "FOOD AND NUTRITION",
+    "Total Milk Powder": "FOOD AND NUTRITION",
+    "Whole Milk Powder": "FOOD AND NUTRITION",
+    "Skimmed Milk Powder": "FOOD AND NUTRITION",
+    "Concentrated Milk": "FOOD AND NUTRITION",
+    "Whey Powder": "FOOD AND NUTRITION"
+}

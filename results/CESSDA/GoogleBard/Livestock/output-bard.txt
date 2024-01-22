@@ -1,0 +1,6 @@
+results = {
+    "ID": "Censuses",
+    "Farm Animals": "Agriculture and rural industry",
+    "Periods": "History",
+    "Livestock": "Agriculture and rural industry"
+}

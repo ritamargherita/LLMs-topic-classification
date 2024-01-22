@@ -1,0 +1,12 @@
+results = {
+    "ID": "IDENTITY",
+    "Travel Motives": "LEISURE TIME ACTIVITIES",
+    "Population": "POPULATION",
+    "Travel Modes": "TRANSPORT",
+    "Margins": "MARGIN",
+    "Region Characteristics": "LOCATION",
+    "Periods": "TIME",
+    "Trips": "TRAVEL",
+    "Distance Travelled": "DISTANCE",
+    "Time Travelled": "TIME"
+}

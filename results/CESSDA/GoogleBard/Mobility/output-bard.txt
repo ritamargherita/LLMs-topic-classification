@@ -1,0 +1,12 @@
+results = {
+    "ID": "OTHER",
+    "Travel Motives": "Social behaviour and attitudes",
+    "Population": "Demography",
+    "Travel Modes": "TRANSPORT AND TRAVEL",
+    "Margins": "OTHER",
+    "Region Characteristics": "Social conditions and indicators",
+    "Periods": "Time use",
+    "Trips": "TRANSPORT AND TRAVEL",
+    "Distance Travelled": "TRANSPORT AND TRAVEL",
+    "Time Travelled": "Time use",
+}

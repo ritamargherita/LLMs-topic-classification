@@ -1,0 +1,15 @@
+ID
+Sex
+Age At December31
+Type Of Figure
+Periods
+Life Expectancy
+Life Expectancy In Perceived Good Health
+LEWithout Moderate Severe Limitations
+LEWithout Severe Limitations
+LEWithout Light Moderate Severe Lim
+LEWithout Chronic Morbidity
+LEWithout Chr Morb Excl Hypertension
+LEWithout Psychological Complaints
+Life Expectancy Without GALILimitations
+Life Exp Without Severe GALILimitations

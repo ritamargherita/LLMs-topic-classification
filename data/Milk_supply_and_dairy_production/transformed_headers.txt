@@ -1,0 +1,12 @@
+ID
+Periods
+Volume
+Fat Content
+Protein Content
+Butter
+Cheese
+Total Milk Powder
+Whole Milk Powder
+Skimmed Milk Powder
+Concentrated Milk
+Whey Powder

@@ -1,0 +1,7 @@
+results = {
+    "ID": "IDENTITY",
+    "Plant Protection Products": "SCIENCE AND TECHNOLOGY",
+    "Periods": "TIME",
+    "Sales Active Ingredient": "SALES",
+    "Sales Active Ingredient Indexnumber": "SALES"
+}

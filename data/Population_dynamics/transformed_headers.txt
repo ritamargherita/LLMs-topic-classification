@@ -1,0 +1,10 @@
+ID
+Periods
+Population At Start Of Selected Period
+Live Births
+Deaths
+Immigration
+Emigration Including Administrative C
+Net Corrections
+Total Population Growth
+Population At End Of Selected Period

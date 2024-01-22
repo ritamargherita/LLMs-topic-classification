@@ -1,0 +1,20 @@
+ID
+Periods
+Total Number Of Disablement Benefits
+Benefits WAO
+Benefits Wajong
+Benefits WAZ
+Total Benefits WIA
+Benefits IVA
+Benefits WGA
+Benefits WWNot Seasonally Adjusted
+Benefits WWSeasonally Adjusted
+Benefits IOW
+Total Benefits Income Support
+Benefits Income Support Up To AOWAge
+Benefits Income Support From AOWAge
+Benefits IOAW
+Benefits IOAZ
+Benefits AOW
+Benefits Anw
+Persons Entitled To AKW

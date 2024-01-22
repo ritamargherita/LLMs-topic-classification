@@ -1,0 +1,7 @@
+results = {
+    "ID": "IDENTITY",
+    "Type Of Monument": "CULTURAL HERITAGE",
+    "Regions": "GEOGRAPHY",
+    "Periods": "TIME",
+    "Listed Monuments And Historic Buildings": "CULTURAL HERITAGE"
+}

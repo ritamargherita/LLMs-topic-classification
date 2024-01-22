@@ -1,0 +1,6 @@
+results = {
+"ID": "DATA",
+"Farm Animals": "AGRICULTURE",
+"Periods": "TIME",
+"Livestock": "AGRICULTURE"
+}

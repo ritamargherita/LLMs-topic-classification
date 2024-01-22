@@ -1,0 +1,7 @@
+results = {
+"ID": "DATA",
+"Type Of Monument": "ARCHAEOLOGY",
+"Regions": "GEOGRAPHY",
+"Periods": "TIME",
+"Listed Monuments And Historic Buildings": "ARCHITECTURE"
+}

@@ -1,0 +1,12 @@
+results = {
+    "ID": "OTHER",
+    "Periods": "Censuses",
+    "Population At Start Of Selected Period": "Population and demography",
+    "Live Births": "Demographic events",
+    "Deaths": "Demographic events",
+    "Immigration": "Migration",
+    "Emigration Including Administrative C": "Migration",
+    "Net Corrections": "Other population and demographic indicators",
+    "Total Population Growth": "Other population and demographic indicators",
+    "Population At End Of Selected Period": "Population and demography"
+}

@@ -1,0 +1,12 @@
+results = {
+    "ID": "OTHER",
+    "Periods": "Time use",
+    "Population At Start Of Selected Period": "Population",
+    "Live Births": "Reproductive health",
+    "Deaths": "Morbidity and mortality",
+    "Immigration": "Migration",
+    "Emigration Including Administrative C": "Migration",
+    "Net Corrections": "Migration",
+    "Total Population Growth": "Population",
+    "Population At End Of Selected Period": "Population"
+}

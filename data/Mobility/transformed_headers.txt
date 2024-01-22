@@ -1,0 +1,13 @@
+ID
+Travel Motives
+Population
+Travel Modes
+Margins
+Region Characteristics
+Periods
+Trips
+Distance Travelled
+Time Travelled
+Trips
+Distance Travelled
+Time Travelled

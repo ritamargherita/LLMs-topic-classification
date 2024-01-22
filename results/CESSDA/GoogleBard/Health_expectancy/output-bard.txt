@@ -1,0 +1,17 @@
+results = {
+    "ID": "Social conditions and indicators",
+    "Sex": "Social conditions and indicators",
+    "Age At December31": "Social conditions and indicators",
+    "Type Of Figure": "Social conditions and indicators",
+    "Periods": "Time use",
+    "Life Expectancy": "General health and well-being",
+    "Life Expectancy In Perceived Good Health": "General health and well-being",
+    "LEWithout Moderate Severe Limitations": "General health and well-being",
+    "LEWithout Severe Limitations": "General health and well-being",
+    "LEWithout Light Moderate Severe Lim": "General health and well-being",
+    "LEWithout Chronic Morbidity": "Morbidity and mortality",
+    "LEWithout Chr Morb Excl Hypertension": "Morbidity and mortality",
+    "LEWithout Psychological Complaints": "General health and well-being",
+    "Life Expectancy Without GALILimitations": "General health and well-being",
+    "Life Exp Without Severe GALILimitations": "General health and well-being"
+}

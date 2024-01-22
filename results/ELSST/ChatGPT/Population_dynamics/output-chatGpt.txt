@@ -1,0 +1,12 @@
+results = {
+    "ID": "IDENTITY",
+    "Periods": "TIME",
+    "Population At Start Of Selected Period": "POPULATION",
+    "Live Births": "DEMOGRAPHY",
+    "Deaths": "DEMOGRAPHY",
+    "Immigration": "POPULATION MIGRATION",
+    "Emigration Including Administrative C": "POPULATION MIGRATION",
+    "Net Corrections": "DATA",
+    "Total Population Growth": "POPULATION",
+    "Population At End Of Selected Period": "POPULATION"
+}
