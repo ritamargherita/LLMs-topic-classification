@@ -1,0 +1,22 @@
+results = {
+  "ID": "Demography",
+  "Periods": "Economics.EconomicConditionsAndIndicators",
+  "Total Number Of Disablement Benefits": "SocialWelfarePolicyAndSystems.SpecificSocialServicesUseAndAvailability",
+  "Benefits WAO": "SocialWelfarePolicyAndSystems.SpecificSocialServicesUseAndAvailability",
+  "Benefits Wajong": "SocialWelfarePolicyAndSystems.SpecificSocialServicesUseAndAvailability",
+  "Benefits WAZ": "SocialWelfarePolicyAndSystems.SpecificSocialServicesUseAndAvailability",
+  "Total Benefits WIA": "SocialWelfarePolicyAndSystems.SpecificSocialServicesUseAndAvailability",
+  "Benefits IVA": "SocialWelfarePolicyAndSystems.SpecificSocialServicesUseAndAvailability",
+  "Benefits WGA": "SocialWelfarePolicyAndSystems.SpecificSocialServicesUseAndAvailability",
+  "Benefits WWNot Seasonally Adjusted": "LabourAndEmployment.Unemployment",
+  "Benefits WWSeasonally Adjusted": "LabourAndEmployment.Unemployment",
+  "Benefits IOW": "SocialWelfarePolicyAndSystems.SpecificSocialServicesUseAndAvailability",
+  "Total Benefits Income Support": "SocialWelfarePolicyAndSystems.SpecificSocialServicesUseAndAvailability",
+  "Benefits Income Support Up To AOWAge": "SocialWelfarePolicyAndSystems.SpecificSocialServicesUseAndAvailability",
+  "Benefits Income Support From AOWAge": "SocialWelfarePolicyAndSystems.SpecificSocialServicesUseAndAvailability",
+  "Benefits IOAW": "SocialWelfarePolicyAndSystems.SpecificSocialServicesUseAndAvailability",
+  "Benefits IOAZ": "SocialWelfarePolicyAndSystems.SpecificSocialServicesUseAndAvailability",
+  "Benefits AOW": "SocialWelfarePolicyAndSystems.SpecificSocialServicesUseAndAvailability",
+  "Benefits Anw": "SocialWelfarePolicyAndSystems.SpecificSocialServicesUseAndAvailability",
+  "Persons Entitled To AKW": "SocialWelfarePolicyAndSystems.SpecificSocialServicesUseAndAvailability"
+}

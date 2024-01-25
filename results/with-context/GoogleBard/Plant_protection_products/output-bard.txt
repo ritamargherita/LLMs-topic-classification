@@ -1,0 +1,7 @@
+result = {
+  "ID": "Demography.Censuses",
+  "Plant Protection Products": "Agriculture and rural industry",
+  "Periods": "Demography.Morbidity and mortality",
+  "Sales Active Ingredient": "Trade, industry and markets",
+  "Sales Active Ingredient Indexnumber": "Trade, industry and markets"
+}

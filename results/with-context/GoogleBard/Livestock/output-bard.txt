@@ -1,0 +1,6 @@
+result = {
+  "ID": "Demography",
+  "Farm Animals": "Agriculture and rural industry",
+  "Periods": "History",
+  "Livestock": "Trade, industry and markets"
+}

@@ -1,7 +1,0 @@
-results = {
-    "ID": "Other",
-    "Type Of Monument": "Cultural activities and participation",
-    "Regions": "Community, urban and rural life",
-    "Periods": "Other",
-    "Listed Monuments And Historic Buildings": "Cultural activities and participation"
-}

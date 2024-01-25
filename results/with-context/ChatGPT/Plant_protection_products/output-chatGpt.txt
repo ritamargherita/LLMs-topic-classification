@@ -1,0 +1,7 @@
+results = {
+  "ID": "Other",
+  "Plant Protection Products": "TradeIndustryAndMarkets.AgricultureAndRuralIndustry",
+  "Periods": "Other",
+  "Sales Active Ingredient": "TradeIndustryAndMarkets.BusinessIndustrialManagementAndOrganisation",
+  "Sales Active Ingredient Indexnumber": "Other"
+}

@@ -1,0 +1,12 @@
+results = {
+  "ID": "Demography",
+  "Travel Motives": "Leisure, tourism and sport",
+  "Population": "Demography (Population, Vital Statistics, and Censuses)",
+  "Travel Modes": "Transport and travel",
+  "Margins": "Trade, industry and markets",
+  "Region Characteristics": "Community, urban and rural life",
+  "Periods": "Time use",
+  "Trips": "Leisure, tourism and sport",
+  "Distance Travelled": "Transport and travel",
+  "Time Travelled": "Transport and travel"
+}

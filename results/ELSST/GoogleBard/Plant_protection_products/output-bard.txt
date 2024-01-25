@@ -1,7 +1,0 @@
-results = {
-    "ID": "DATA",
-    "Plant Protection Products": "PRODUCTS",
-    "Periods": "TIME",
-    "Sales Active Ingredient": "QUANTITY",
-    "Sales Active Ingredient Indexnumber": "MEASUREMENT",
-}

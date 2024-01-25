@@ -1,6 +1,0 @@
-results = {
-    "ID": "Community, urban and rural life",
-    "Farm Animals": "Agriculture and rural industry",
-    "Periods": "Time use",
-    "Livestock": "Agriculture and rural industry"
-}

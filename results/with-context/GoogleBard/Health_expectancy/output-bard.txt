@@ -1,0 +1,17 @@
+result = {
+  "ID": "Demography.Health",
+  "Sex": "Demography.PopulationAndDemographics",
+  "Age At December31": "Demography.AgeStructureAndDemography",
+  "Type Of Figure": "Other",
+  "Periods": "History.TimePeriodsAndEras",
+  "Life Expectancy": "Health.GeneralHealthAndWell-being",
+  "Life Expectancy In Perceived Good Health": "Health.GeneralHealthAndWell-being",
+  "LEWithout Moderate Severe Limitations": "Health.GeneralHealthAndWell-being",
+  "LEWithout Severe Limitations": "Health.GeneralHealthAndWell-being",
+  "LEWithout Light Moderate Severe Lim": "Health.GeneralHealthAndWell-being",
+  "LEWithout Chronic Morbidity": "Health.SpecificDiseasesDisordersAndMedicalConditions",
+  "LEWithout Chr Morb Excl Hypertension": "Health.SpecificDiseasesDisordersAndMedicalConditions",
+  "LEWithout Psychological Complaints": "Health.MentalHealth",
+  "Life Expectancy Without GALILimitations": "Health.GeneralHealthAndWell-being",
+  "Life Exp Without Severe GALILimitations": "Health.GeneralHealthAndWell-being"
+}

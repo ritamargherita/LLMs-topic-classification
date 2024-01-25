@@ -1,0 +1,14 @@
+results = {
+  "ID": "Demography",
+  "Periods": "Demography",
+  "Volume": "Other",
+  "Fat Content": "Health.DietAndNutrition",
+  "Protein Content": "Health.DietAndNutrition",
+  "Butter": "TradeIndustryAndMarkets.BusinessIndustrialManagementAndOrganisation",
+  "Cheese": "TradeIndustryAndMarkets.BusinessIndustrialManagementAndOrganisation",
+  "Total Milk Powder": "TradeIndustryAndMarkets.AgricultureAndRuralIndustry",
+  "Whole Milk Powder": "TradeIndustryAndMarkets.AgricultureAndRuralIndustry",
+  "Skimmed Milk Powder": "TradeIndustryAndMarkets.AgricultureAndRuralIndustry",
+  "Concentrated Milk": "TradeIndustryAndMarkets.AgricultureAndRuralIndustry",
+  "Whey Powder": "TradeIndustryAndMarkets.AgricultureAndRuralIndustry"
+}
