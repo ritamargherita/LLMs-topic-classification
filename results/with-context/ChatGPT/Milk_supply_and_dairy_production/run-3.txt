@@ -1,0 +1,14 @@
+{
+  "ID": "Demography",
+  "Periods": "Demography",
+  "Volume": "Trade, Industry and Markets",
+  "Fat Content": "Diet and nutrition",
+  "Protein Content": "Diet and nutrition",
+  "Butter": "Business/industrial management and organisation",
+  "Cheese": "Business/industrial management and organisation",
+  "Total Milk Powder": "Agriculture and rural industry",
+  "Whole Milk Powder": "Agriculture and rural industry",
+  "Skimmed Milk Powder": "Agriculture and rural industry",
+  "Concentrated Milk": "Agriculture and rural industry",
+  "Whey Powder": "Agriculture and rural industry"
+}

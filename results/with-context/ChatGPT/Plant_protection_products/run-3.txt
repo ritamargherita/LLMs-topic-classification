@@ -1,0 +1,7 @@
+{
+  "ID": "Demography",
+  "Plant Protection Products": "Environment and conservation",
+  "Periods": "Time use",
+  "Sales Active Ingredient": "Business/industrial management and organisation",
+  "Sales Active Ingredient Indexnumber": "OTHER"
+}

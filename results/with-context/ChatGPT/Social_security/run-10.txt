@@ -1,0 +1,22 @@
+{
+  "ID": "Social Welfare Policy and Systems",
+  "Periods": "Time use",
+  "Total Number Of Disablement Benefits": "Social Welfare Systems/Structures",
+  "Benefits WAO": "Social Welfare Systems/Structures",
+  "Benefits Wajong": "Social Welfare Systems/Structures",
+  "Benefits WAZ": "Social Welfare Systems/Structures",
+  "Total Benefits WIA": "Social Welfare Systems/Structures",
+  "Benefits IVA": "Health Care Services and Policies",
+  "Benefits WGA": "Social Welfare Systems/Structures",
+  "Benefits WWNot Seasonally Adjusted": "Unemployment",
+  "Benefits WWSeasonally Adjusted": "Unemployment",
+  "Benefits IOW": "Unemployment",
+  "Total Benefits Income Support": "Social Welfare Systems/Structures",
+  "Benefits Income Support Up To AOWAge": "Social Welfare Systems/Structures",
+  "Benefits Income Support From AOWAge": "Social Welfare Systems/Structures",
+  "Benefits IOAW": "Social Welfare Systems/Structures",
+  "Benefits IOAZ": "Social Welfare Systems/Structures",
+  "Benefits AOW": "Social Welfare Systems/Structures",
+  "Benefits Anw": "Social Welfare Systems/Structures",
+  "Persons Entitled To AKW": "Social Welfare Systems/Structures"
+}

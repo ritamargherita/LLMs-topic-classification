@@ -1,6 +1,0 @@
-results = {
-  "ID": "Demography",
-  "Farm Animals": "NaturalEnvironment.PlantsAndAnimals",
-  "Periods": "SocialConditionsAndIndicators",
-  "Livestock": "Agriculture and rural industry"
-}

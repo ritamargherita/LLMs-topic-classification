@@ -1,0 +1,14 @@
+{
+  "ID": "Demography",
+  "Periods": "Demography",
+  "Volume": "Economics",
+  "Fat Content": "Diet and nutrition",
+  "Protein Content": "Diet and nutrition",
+  "Butter": "Diet and nutrition",
+  "Cheese": "Diet and nutrition",
+  "Total Milk Powder": "Diet and nutrition",
+  "Whole Milk Powder": "Diet and nutrition",
+  "Skimmed Milk Powder": "Diet and nutrition",
+  "Concentrated Milk": "Diet and nutrition",
+  "Whey Powder": "Diet and nutrition"
+}

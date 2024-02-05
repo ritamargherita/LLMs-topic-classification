@@ -1,0 +1,22 @@
+{
+  "ID": "Social conditions and indicators",
+  "Periods": "Time use",
+  "Total Number Of Disablement Benefits": "Social welfare systems/structures",
+  "Benefits WAO": "Social welfare policy",
+  "Benefits Wajong": "Social welfare systems/structures",
+  "Benefits WAZ": "Social welfare systems/structures",
+  "Total Benefits WIA": "Social welfare systems/structures",
+  "Benefits IVA": "Social welfare policy",
+  "Benefits WGA": "Social welfare policy",
+  "Benefits WWNot Seasonally Adjusted": "Labour and Employment",
+  "Benefits WWSeasonally Adjusted": "Labour and Employment",
+  "Benefits IOW": "Labour and Employment",
+  "Total Benefits Income Support": "Social welfare systems/structures",
+  "Benefits Income Support Up To AOWAge": "Social welfare policy",
+  "Benefits Income Support From AOWAge": "Social welfare policy",
+  "Benefits IOAW": "Social welfare policy",
+  "Benefits IOAZ": "Social welfare policy",
+  "Benefits AOW": "Social welfare systems/structures",
+  "Benefits Anw": "Social welfare systems/structures",
+  "Persons Entitled To AKW": "Family life and marriage"
+}

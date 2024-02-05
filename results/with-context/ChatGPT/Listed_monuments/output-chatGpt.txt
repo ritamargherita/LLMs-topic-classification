@@ -1,7 +1,0 @@
-results = {
-  "ID": "Demography",
-  "Type Of Monument": "History",
-  "Regions": "Community, urban and rural life",
-  "Periods": "History",
-  "Listed Monuments And Historic Buildings": "History"
-}

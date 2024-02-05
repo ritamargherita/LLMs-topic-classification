@@ -1,0 +1,12 @@
+{
+  "ID": "Demography",
+  "Periods": "Demography",
+  "Population At Start Of Selected Period": "Demography",
+  "Live Births": "Morbidity and mortality",
+  "Deaths": "Morbidity and mortality",
+  "Immigration": "Migration",
+  "Emigration Including Administrative C": "Migration",
+  "Net Corrections": "Migration",
+  "Total Population Growth": "Demography",
+  "Population At End Of Selected Period": "Demography"
+}

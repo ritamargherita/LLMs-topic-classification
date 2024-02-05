@@ -1,0 +1,12 @@
+{
+  "ID": "Other",
+  "Periods": "Time",
+  "Population At Start Of Selected Period": "Demography",
+  "Live Births": "Demography",
+  "Deaths": "Demography",
+  "Immigration": "Migration",
+  "Emigration": "Migration",
+  "Net Corrections": "Other",
+  "Total Population Growth": "Demography",
+  "Population At End Of Selected Period": "Demography"
+}

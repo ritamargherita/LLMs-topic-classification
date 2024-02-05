@@ -7,25 +7,27 @@
 \pard\pardeftab560\slleading20\partightenfactor0
 
 \f0\fs24 \cf0 Task: Column Header Classification with Controlled Vocabulary\
-You are provided with a list of column headers, where each new line represents a unique column header. Your goal is to classify each column header with a relevant topic from a controlled vocabulary. The controlled vocabulary is given in CSV format with three columns: \'93Code value," \'93Code descriptive term," and \'93Code definition."\
+You are provided with a list of column headers and a controlle vocabulary of topics. Your goal is to classify each column header with a relevant topic. The controlled vocabulary is given in CSV format with two columns: \'93Topic Label" and \'93Topic Description".\
 For each column header, assign a topic from the controlled vocabulary based on semantic relevance and the definition provided for each topic.\
-The result should be structured in JSON format, where each column header is paired with its assigned topic's code value.\
+The result should be structured in JSON format, where each column header is paired with its assigned topic's label.\
 \
 Constraints:\
 Use only topics provided in the controlled vocabulary, do not add any topics that are not included. \
-Do not change the text of the column headers or topic's code value.\
+Do not change the text of the column headers or topic's label.\
 Only return the output in a JSON format (as shown below), and no additional text. \
 \
 Example Output (JSON):\
 result = \{\
-  "Column Header 1": "Descriptive_Term_x",\
-  "Column Header 2": "Descriptive_Term_y",\
+  "Column Header 1": "Topic_Label_x",\
+  "Column Header 2": "Topic_Label_y",\
   ...\
-  "Column Header n": "Descriptive_Term_n\'94\
+  "Column Header n": "Topic_Label_n\'94\
 \}\
 \
 Input:
 \f1\fs26 \
+\pard\pardeftab560\slleading20\partightenfactor0
+\cf0 \
 \pard\pardeftab560\partightenfactor0
 
 \fs28 \cf0 \

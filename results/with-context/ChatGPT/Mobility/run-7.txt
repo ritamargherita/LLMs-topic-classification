@@ -1,0 +1,12 @@
+{
+  "ID": "Demography",
+  "Travel Motives": "Leisure, tourism and sport",
+  "Population": "Demography",
+  "Travel Modes": "Transport and Travel",
+  "Margins": "Trade, Industry and Markets",
+  "Region Characteristics": "Community, urban and rural life",
+  "Periods": "Time use",
+  "Trips": "Leisure, tourism and sport",
+  "Distance Travelled": "Transport and Travel",
+  "Time Travelled": "Transport and Travel"
+}
