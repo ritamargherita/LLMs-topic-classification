@@ -1,0 +1,6 @@
+{
+  "Type Of Monument": "History",
+  "Regions": "Geography",
+  "Periods": "History",
+  "Listed Monuments And Historic Buildings": "History"
+}

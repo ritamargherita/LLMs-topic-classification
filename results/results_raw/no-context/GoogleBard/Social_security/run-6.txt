@@ -1,0 +1,21 @@
+{
+  "Periods": "OTHER",
+  "Total Number Of Disablement Benefits": "Social welfare systems/structures: use and availability",
+  "Benefits WAO": "Specific social services: use and availability",
+  "Benefits Wajong": "Specific social services: use and availability",
+  "Benefits WAZ": "Specific social services: use and availability",
+  "Total Benefits WIA": "Social welfare systems/structures: use and availability",
+  "Benefits IVA": "Specific social services: use and availability",
+  "Benefits WGA": "Specific social services: use and availability",
+  "Benefits WWNot Seasonally Adjusted": "Unemployment",
+  "Benefits WWSeasonally Adjusted": "Unemployment",
+  "Benefits IOW": "Specific social services: use and availability",
+  "Total Benefits Income Support": "Social welfare systems/structures: use and availability",
+  "Benefits Income Support Up To AOWAge": "Specific social services: use and availability",
+  "Benefits Income Support From AOWAge": "Specific social services: use and availability",
+  "Benefits IOAW": "Specific social services: use and availability",
+  "Benefits IOAZ": "Specific social services: use and availability",
+  "Benefits AOW": "Specific social services: use and availability",
+  "Benefits Anw": "Specific social services: use and availability",
+  "Persons Entitled To AKW": "Social welfare policy"
+}

@@ -1,0 +1,13 @@
+{
+  "Periods": "OTHER",
+  "Volumne": "OTHER",
+  "Fat Content": "OTHER",
+  "Protein Content": "OTHER",
+  "Butten": "OTHER",
+  "Cheese": "OTHER",
+  "Total Milk Powder": "OTHER",
+  "Whole Milk Powder": "OTHER",
+  "Skimmed Milk Powder": "OTHER",
+  "Concentrated Milk": "OTHER",
+  "Whey Powder": "OTHER"
+}

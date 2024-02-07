@@ -1,0 +1,21 @@
+{
+  "Periods": "Time use",
+  "Total Number Of Disablement Benefits": "Social welfare systems/structures",
+  "Benefits WAO": "Social welfare policy",
+  "Benefits Wajong": "Social welfare policy",
+  "Benefits WAZ": "Social welfare policy",
+  "Total Benefits WIA": "Social welfare systems/structures",
+  "Benefits IVA": "Social welfare policy",
+  "Benefits WGA": "Social welfare policy",
+  "Benefits WWNot Seasonally Adjusted": "Unemployment",
+  "Benefits WWSeasonally Adjusted": "Unemployment",
+  "Benefits IOW": "Unemployment",
+  "Total Benefits Income Support": "Social welfare systems/structures",
+  "Benefits Income Support Up To AOWAge": "Social welfare policy",
+  "Benefits Income Support From AOWAge": "Social welfare policy",
+  "Benefits IOAW": "Social welfare policy",
+  "Benefits IOAZ": "Social welfare policy",
+  "Benefits AOW": "Social welfare policy",
+  "Benefits Anw": "Social welfare policy",
+  "Persons Entitled To AKW": "Social welfare policy"
+}

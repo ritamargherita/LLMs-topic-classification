@@ -1,0 +1,14 @@
+{
+  "Travel Motives": "Social behaviour and attitudes",
+  "Population": "Demography",
+  "Travel Modes": "Transport and Travel",
+  "Margins": "OTHER",
+  "Region Characteristics": "Geography",
+  "Periods": "Time use",
+  "Trips": "Transport and Travel",
+  "Distance Travelled": "Transport and Travel",
+  "Time Travelled": "Time use",
+  "Trips": "Transport and Travel",
+  "Distance Travelled": "Transport and Travel",
+  "Time Travelled": "Time use"
+}

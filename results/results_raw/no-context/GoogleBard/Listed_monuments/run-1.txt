@@ -1,0 +1,6 @@
+{
+  "Type Of Monument": "OTHER",
+  "Regions": "OTHER",
+  "Periods": "OTHER",
+  "Listed Monuments And Historic Buildings": "OTHER"
+}

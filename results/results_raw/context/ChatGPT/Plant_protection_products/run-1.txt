@@ -1,0 +1,6 @@
+{
+  "Plant Protection Products": "Agriculture and rural industry",
+  "Periods": "Time use",
+  "Sales Active Ingredient": "Business/industrial management and organisation",
+  "Sales Active Ingredient Indexnumber": "Economic conditions and indicators"
+}

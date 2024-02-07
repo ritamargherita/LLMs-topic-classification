@@ -1,0 +1,13 @@
+{
+  "Periods": "Demography",
+  "Volume": "Economics",
+  "Fat Content": "Health",
+  "Protein Content": "Health",
+  "Butter": "Economics",
+  "Cheese": "Economics",
+  "Total Milk Powder": "Economics",
+  "Whole Milk Powder": "Economics",
+  "Skimmed Milk Powder": "Economics",
+  "Concentrated Milk": "Economics",
+  "Whey Powder": "Economics"
+}

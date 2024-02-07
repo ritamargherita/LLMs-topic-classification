@@ -1,0 +1,16 @@
+{
+  "Sex": "Demography",
+  "Age At December31": "Demography",
+  "Type Of Figure": "OTHER",
+  "Periods": "Reproductive health",
+  "Life Expectancy": "Demography",
+  "Life Expectancy In Perceived Good Health": "Health",
+  "LEWithout Moderate Severe Limitations": "Demography",
+  "LEWithout Severe Limitations": "Demography",
+  "LEWithout Light Moderate Severe Lim": "Demography",
+  "LEWithout Chronic Morbidity": "Morbidity and mortality",
+  "LEWithout Chr Morb Excl Hypertension": "Morbidity and mortality",
+  "LEWithout Psychological Complaints": "Mental health",
+  "Life Expectancy Without GALILimitations": "Demography",
+  "Life Exp Without Severe GALILimitations": "Demography"
+}

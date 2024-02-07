@@ -1,0 +1,13 @@
+{
+  "Periods": "Demography",
+  "Volume": "Economics",
+  "Fat Content": "Health",
+  "Protein Content": "Health",
+  "Butter": "Trade, Industry and Markets",
+  "Cheese": "Trade, Industry and Markets",
+  "Total Milk Powder": "Trade, Industry and Markets",
+  "Whole Milk Powder": "Trade, Industry and Markets",
+  "Skimmed Milk Powder": "Trade, Industry and Markets",
+  "Concentrated Milk": "Trade, Industry and Markets",
+  "Whey Powder": "Trade, Industry and Markets"
+}

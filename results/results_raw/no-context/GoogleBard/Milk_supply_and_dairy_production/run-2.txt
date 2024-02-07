@@ -1,0 +1,13 @@
+{
+  "Periods": "Time use",
+  "Volume": "OTHER",
+  "Fat Content": "Food composition",
+  "Protein Content": "Food composition",
+  "Butter": "Food products",
+  "Cheese": "Food products",
+  "Total Milk Powder": "Food products",
+  "Whole Milk Powder": "Food products",
+  "Skimmed Milk Powder": "Food products",
+  "Concentrated Milk": "Food products",
+  "Whey Powder": "Food products"
+}

@@ -1,0 +1,13 @@
+{
+  "Periods": "OTHER",
+  "Volume": "OTHER",
+  "Fat Content": "Diet and nutrition",
+  "Protein Content": "Diet and nutrition",
+  "Butter": "Consumption and consumer behaviour",
+  "Cheese": "Consumption and consumer behaviour",
+  "Total Milk Powder": "Consumption and consumer behaviour",
+  "Whole Milk Powder": "Consumption and consumer behaviour",
+  "Skimmed Milk Powder": "Consumption and consumer behaviour",
+  "Concentrated Milk": "Consumption and consumer behaviour",
+  "Whey Powder": "Consumption and consumer behaviour"
+}

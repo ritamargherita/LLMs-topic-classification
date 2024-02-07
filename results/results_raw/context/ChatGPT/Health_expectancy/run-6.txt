@@ -1,0 +1,16 @@
+{
+    "Sex": "Demography",
+    "Age At December31": "Demography",
+    "Type Of Figure": "OTHER",
+    "Periods": "Time use",
+    "Life Expectancy": "Demography",
+    "Life Expectancy In Perceived Good Health": "Health",
+    "LEWithout Moderate Severe Limitations": "Health",
+    "LEWithout Severe Limitations": "Health",
+    "LEWithout Light Moderate Severe Lim": "Health",
+    "LEWithout Chronic Morbidity": "Health",
+    "LEWithout Chr Morb Excl Hypertension": "Health",
+    "LEWithout Psychological Complaints": "Health",
+    "Life Expectancy Without GALILimitations": "Health",
+    "Life Exp Without Severe GALILimitations": "Health"
+}
