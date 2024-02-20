@@ -1,0 +1,11 @@
+run_index,ID,Travel Motives,Population,Travel Modes,Margins,Region Characteristics,Periods,Trips,Distance Travelled,Time Travelled
+run1,1,80,1,94,5,80,80,80,94,80
+run2,1,80,1,94,5,80,80,80,94,80
+run3,1,80,1,94,5,80,80,94,94,94
+run7,1,80,1,94,90,80,80,80,94,94
+run6,1,80,1,94,90,80,80,80,94,80
+run4,1,80,1,94,5,80,80,80,94,80
+run10,1,80,1,94,5,80,80,80,94,80
+run5,1,80,1,94,5,80,80,80,94,94
+run8,1,80,1,94,90,80,80,80,94,80
+run9,1,80,1,94,5,80,80,80,94,94

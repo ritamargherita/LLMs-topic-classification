@@ -1,0 +1,11 @@
+run_index,ID,Sex,Age At December31,Type Of Figure,Periods,Life Expectancy,Life Expectancy In Perceived Good Health,LEWithout Moderate Severe Limitations,LEWithout Severe Limitations,LEWithout Light Moderate Severe Lim,LEWithout Chronic Morbidity,LEWithout Chr Morb Excl Hypertension,LEWithout Psychological Complaints,Life Expectancy Without GALILimitations,Life Exp Without Severe GALILimitations
+run1,1,1,1,1,1,17,17,17,17,17,1,1,NOT_FOUND,17,17
+run2,1,1,1,66,80,17,17,17,17,17,1,1,NOT_FOUND,17,17
+run3,1,1,1,1,1,17,17,17,17,17,17,17,17,17,17
+run7,1,1,1,66,80,17,17,17,17,17,1,1,NOT_FOUND,17,17
+run6,1,1,1,1,1,17,17,17,17,17,1,1,1,17,17
+run4,1,1,1,1,1,17,17,17,17,17,17,17,17,17,17
+run10,1,1,1,1,1,17,17,17,17,17,17,17,17,17,17
+run5,1,1,1,1,1,1,17,17,17,17,1,1,NOT_FOUND,17,17
+run8,1,1,1,80,80,17,17,17,17,17,1,1,NOT_FOUND,17,17
+run9,1,1,1,1,1,17,17,17,17,17,1,1,1,17,17

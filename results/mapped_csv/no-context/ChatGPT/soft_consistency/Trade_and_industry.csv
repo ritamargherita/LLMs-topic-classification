@@ -1,0 +1,11 @@
+run_index,ID,Sector Branches SIC2008,Periods,Employee,Employed Person,Total,Net Turnover,Other Revenues,Initial Stock Of Raw And Auxiliary Mater,Purchased Raw And Auxiliary Materials,Closing Stock Raw And Auxiliary Mat,Initial Stock Of Commodities,Purchased Commodities,Closing Stock Of Commodities,Payments To Subcontractors,Purchase Value Not Elsewhere Classified,Gross Wages And Salaries,Employer Paid Social Insurance Premiums,Other Social Insurance Costs,Pension And Early Retirement Premiums,Other Personnel Costs,Costs Of Energy Use,Housing Costs,Equipment And Inventory Costs,Transport Costs,Sales Costs,Communication Costs,Costs Of Other Services,Other Liabilities,Depreciation Fixed Assets,Operating Results,Net Financial Income,Balance Of Provisions,Net Extraordinary Income,Pre Tax Results
+run1,1,5,80,34,34,5,90,90,90,90,90,90,90,90,90,90,34,76,76,76,34,50,31,90,94,90,45,90,80,90,5,5,80,5,5
+run2,1,5,80,34,34,5,90,90,90,90,90,90,90,90,90,90,34,76,76,76,76,50,31,90,94,90,45,76,76,90,90,5,76,5,5
+run3,66,90,80,34,34,5,5,5,90,90,90,90,90,90,90,90,34,76,76,76,34,50,31,90,94,90,45,90,76,90,5,5,76,5,5
+run7,34,90,80,34,34,5,90,90,90,90,90,90,90,90,34,90,34,34,34,34,34,50,31,90,94,90,45,90,76,90,5,5,76,5,5
+run6,80,90,80,34,34,80,90,90,90,90,90,90,90,90,90,90,34,76,76,76,76,50,31,90,94,90,45,90,76,90,90,5,76,5,5
+run4,80,90,80,34,34,5,5,5,90,90,90,90,90,90,90,90,34,34,34,34,34,50,31,90,94,90,45,90,5,90,5,5,5,5,5
+run10,80,90,80,34,34,80,90,90,90,90,90,90,90,90,90,90,34,80,80,76,34,50,31,90,94,90,45,90,80,90,90,5,80,90,5
+run5,80,90,80,34,34,5,90,90,90,90,90,90,90,90,90,90,34,76,76,76,34,50,31,90,94,90,45,90,5,90,90,5,90,5,5
+run8,34,90,80,34,34,5,90,90,90,90,90,90,90,90,90,90,34,34,34,34,34,50,31,90,94,90,45,90,5,90,5,5,5,5,5
+run9,34,90,80,34,34,34,90,90,90,90,90,90,90,90,34,90,34,34,34,34,34,50,31,90,94,90,45,90,76,90,90,5,76,5,5
