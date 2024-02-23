@@ -1,0 +1,10 @@
+col_headers,annotator_1,annotator_2,annotator_3
+Periods,80,80,95
+Population At Start Of Selected Period,1,80,1
+Live Births,1,80,1
+Deaths,1,80,1
+Immigration,1,80,1
+Emigration Including Administrative C,1,80,1
+Net Corrections,95,80,1
+Total Population Growth,1,80,1
+Population At End Of Selected Period,1,80,1

@@ -1,0 +1,15 @@
+col_headers,annotator_1,annotator_2,annotator_3
+Sex,66,66,1
+Age At December31,66,66,1
+Type Of Figure,95,95,95
+Periods,80,80,95
+Life Expectancy,1,66,1
+Life Expectancy In Perceived Good Health,1,17,1
+LEWithout Moderate Severe Limitations,1,17,1
+LEWithout Severe Limitations,1,17,1
+LEWithout Light Moderate Severe Lim,1,17,1
+LEWithout Chronic Morbidity,1,17,1
+LEWithout Chr Morb Excl Hypertension,1,17,1
+LEWithout Psychological Complaints,1,17,1
+Life Expectancy Without GALILimitations,1,17,1
+Life Exp Without Severe GALILimitations,1,17,1
