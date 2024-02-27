@@ -1,0 +1,11 @@
+datasets,/Users/brain/Documents/GitHub/LLMs-topic-classification/results/mapped_csv/no-context/ChatGPT/strict_consistency/,/Users/brain/Documents/GitHub/LLMs-topic-classification/results/mapped_csv/no-context/GoogleBard/strict_consistency/,/Users/brain/Documents/GitHub/LLMs-topic-classification/results/mapped_csv/no-context/GoogleGemini/strict_consistency/,/Users/brain/Documents/GitHub/LLMs-topic-classification/results/mapped_csv/context/ChatGPT/strict_consistency/,/Users/brain/Documents/GitHub/LLMs-topic-classification/results/mapped_csv/context/GoogleGemini/strict_consistency/,/Users/brain/Documents/GitHub/LLMs-topic-classification/results/mapped_csv/no-context/ChatGPT/soft_consistency/,/Users/brain/Documents/GitHub/LLMs-topic-classification/results/mapped_csv/no-context/GoogleBard/soft_consistency/,/Users/brain/Documents/GitHub/LLMs-topic-classification/results/mapped_csv/no-context/GoogleGemini/soft_consistency/,/Users/brain/Documents/GitHub/LLMs-topic-classification/results/mapped_csv/context/ChatGPT/soft_consistency/,/Users/brain/Documents/GitHub/LLMs-topic-classification/results/mapped_csv/context/GoogleGemini/soft_consistency/
+Education_expenditure_and_indicators.csv,13/70,11/147,34/245,164/735,15/98,232/735,121/735,43/98,517/1470,64/147
+Health_expectancy.csv,8/105,109/420,1/6,19/140,5/42,61/210,103/210,5/14,7/20,8/21
+Listed_monuments.csv,5/12,53/120,1/2,59/120,1/6,5/12,53/120,1/2,59/120,1/6
+Livestock.csv,2/3,4/9,5/9,2/3,0,2/3,4/9,5/9,2/3,0
+Milk_supply_and_dairy_production.csv,2/11,8/165,4/33,49/165,1/22,82/165,8/165,5/33,64/165,43/66
+Mobility.csv,10/27,77/135,13/27,68/135,7/27,10/27,77/135,13/27,68/135,7/27
+Plant_protection_products.csv,17/60,1/8,1/12,13/60,1/12,31/60,1/4,1/6,29/60,1/6
+Population_dynamics.csv,103/270,49/135,13/27,11/27,11/27,19/45,23/45,17/27,76/135,5/9
+Social_security.csv,6/95,1/57,43/285,2/15,2/19,157/190,1/57,55/57,226/285,523/570
+Trade_and_industry.csv,59/204,7/102,7/51,253/1020,29/255,109/170,131/1020,83/255,113/170,77/510

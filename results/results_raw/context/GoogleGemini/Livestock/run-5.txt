@@ -1,0 +1,1 @@
+{"ID": "Other", "Farm Animals": "Agriculture and rural industry", "Periods": "Other", "Livestock": "Agriculture and rural industry"}

@@ -1,0 +1,1 @@
+{"ID": "OTHER", "Plant Protection Products": "Agriculture and rural industry", "Periods": "OTHER", "Sales Active Ingredient": "OTHER", "Sales Active Ingredient Indexnumber": "OTHER"}

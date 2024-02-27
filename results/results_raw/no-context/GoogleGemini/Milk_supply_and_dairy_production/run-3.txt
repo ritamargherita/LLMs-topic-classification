@@ -1,0 +1,14 @@
+{
+  "ID": "OTHER",
+  "Periods": "Time use",
+  "Volume": "OTHER",
+  "Fat Content": "Health",
+  "Protein Content": "Health",
+  "Butter": "Agriculture and rural industry",
+  "Cheese": "Agriculture and rural industry",
+  "Total Milk Powder": "Agriculture and rural industry",
+  "Whole Milk Powder": "Agriculture and rural industry",
+  "Skimmed Milk Powder": "Agriculture and rural industry",
+  "Concentrated Milk": "Agriculture and rural industry",
+  "Whey Powder": "Agriculture and rural industry"
+}

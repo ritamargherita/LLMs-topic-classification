@@ -1,0 +1,12 @@
+{
+  "ID": "OTHER",
+  "Travel Motives": "Social conditions and indicators",
+  "Population": "Demography",
+  "Travel Modes": "Transport and Travel",
+  "Margins": "OTHER",
+  "Region Characteristics": "Demography",
+  "Periods": "Time use",
+  "Trips": "Transport and Travel",
+  "Distance Travelled": "Transport and Travel",
+  "Time Travelled": "Transport and Travel"
+}

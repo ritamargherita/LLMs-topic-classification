@@ -1,0 +1,6 @@
+{
+  "ID": "OTHER",
+  "Farm Animals": "Animals and livestock",
+  "Periods": "Time period",
+  "Livestock": "Animals and livestock"
+}

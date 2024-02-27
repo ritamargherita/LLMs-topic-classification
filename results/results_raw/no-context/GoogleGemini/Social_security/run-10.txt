@@ -1,0 +1,22 @@
+{
+  "ID": "OTHER",
+  "Periods": "OTHER",
+  "Total Number Of Disablement Benefits": "SOCIAL WELFARE POLICY",
+  "Benefits WAO": "SOCIAL WELFARE POLICY",
+  "Benefits Wajong": "SOCIAL WELFARE POLICY",
+  "Benefits WAZ": "SOCIAL WELFARE POLICY",
+  "Total Benefits WIA": "SOCIAL WELFARE POLICY",
+  "Benefits IVA": "SOCIAL WELFARE POLICY",
+  "Benefits WGA": "SOCIAL WELFARE POLICY",
+  "Benefits WWNot Seasonally Adjusted": "SOCIAL WELFARE POLICY",
+  "Benefits WWSeasonally Adjusted": "SOCIAL WELFARE POLICY",
+  "Benefits IOW": "SOCIAL WELFARE POLICY",
+  "Total Benefits Income Support": "SOCIAL WELFARE POLICY",
+  "Benefits Income Support Up To AOWAge": "SOCIAL WELFARE POLICY",
+  "Benefits Income Support From AOWAge": "SOCIAL WELFARE POLICY",
+  "Benefits IOAW": "SOCIAL WELFARE POLICY",
+  "Benefits IOAZ": "SOCIAL WELFARE POLICY",
+  "Benefits AOW": "SOCIAL WELFARE POLICY",
+  "Benefits Anw": "SOCIAL WELFARE POLICY",
+  "Persons Entitled To AKW": "SOCIAL WELFARE POLICY"
+}
